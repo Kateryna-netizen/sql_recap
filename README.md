@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kateryna and I'm a junior data analyst, from Szczecin, Poland</h2>
+<h2 align="left">Hi 👋! My name is Kateryna and I'm a junior data analyst from Szczecin, Poland</h2>
 
 ###
 
