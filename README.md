@@ -70,9 +70,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KaterynaLebedenko/KaterynaLebedenko/output/snake.svg" alt="Snake animation" />
-
-###
